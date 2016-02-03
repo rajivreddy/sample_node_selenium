@@ -4,7 +4,7 @@ Basic "Hello World" example of Selenium browser tests that run on [Shippable.com
 
 ### How to run selenium tests locally?
 
-First, execute the bash script to download and run a local Selenium server.
+First, execute the bash script to download and run a local Selenium server.,mnkjrrgfbje
 
 ```
 ./selenium.sh
